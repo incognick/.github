@@ -2,7 +2,13 @@
 
 I'm a backend and infrastructure engineer with more than 20 years of experience building systems that need to stay up and stay fast.
 
-Right now I'm building [Otterwatch](https://otterwatch.dev), a calm SSL certificate monitor that emails you before your certificates expire, and quietly keeps an eye on whether your sites are responding while it's at it.
+## I'm building
+
+### [Otterwatch](https://otterwatch.dev)
+A calm SSL certificate monitor that emails you before your certificates expire, and quietly keeps an eye on whether your sites are responding while it's at it.
+
+### [Hamster](https://github.com/hamster-storage/hamster)
+S3 compatible object storage in a single binary, with erasure coded durability, versioning, and object lock built in.
 
 ## What I work with
 
