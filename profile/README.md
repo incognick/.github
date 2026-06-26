@@ -1,8 +1,11 @@
 # Hi, I'm Nick
 
-I'm a backend and infrastructure engineer with more than 20 years of experience building systems that need to stay up and stay fast.
+I'm a backend and platform engineer with more than 20 years of experience building systems that need to stay up and stay fast.
 
-## I'm building
+## What I'm building
+
+### [Burrow](https://github.com/burrow-cloud/burrow/)
+Agent driven cloud platform for your own Kubernetes. Deploy, roll back, scale, and debug through MCP.
 
 ### [Otterwatch](https://otterwatch.dev)
 A calm SSL certificate monitor that emails you before your certificates expire, and quietly keeps an eye on whether your sites are responding while it's at it.
