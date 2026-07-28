@@ -5,7 +5,7 @@ I'm a backend and platform engineer with more than 20 years of experience buildi
 ## What I'm building
 
 ### [Burrow](https://github.com/burrow-cloud/burrow/)
-Agent driven cloud platform for your own Kubernetes. Deploy, roll back, scale, and debug through MCP.
+Agent driven backend for your own Kubernetes. Deploy, roll back, scale, and debug through your agent with guardrails. 
 
 ### [Otterwatch](https://otterwatch.dev)
 A calm SSL certificate monitor that emails you before your certificates expire, and quietly keeps an eye on whether your sites are responding while it's at it.
