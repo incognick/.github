@@ -19,5 +19,5 @@ Go, Postgres, and the unglamorous infrastructure that keeps products running: qu
 
 ## Background
 
-Over the years I've worked on backend and infrastructure systems at Dapper Labs, Chick-fil-A, VividCortex, and JupiterOne, and I founded Hyprcubd. I tend to gravitate toward the parts of a system most people would rather not think about.
+Over the years I've worked on backend and infrastructure systems at Dapper Labs, Chick-fil-A, VividCortex, and I founded Hyprcubd. I tend to gravitate toward the parts of a system most people would rather not think about.
 
