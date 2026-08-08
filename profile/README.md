@@ -17,7 +17,3 @@ S3 compatible object storage in a single binary, with erasure coded durability, 
 
 Go, Postgres, and the unglamorous infrastructure that keeps products running: queues, schedulers, data integrity, and reliability. I like simple architectures that are easy to reason about and hard to break.
 
-## Background
-
-Over the years I've worked on backend and infrastructure systems at Dapper Labs, Chick-fil-A, VividCortex, and I founded Hyprcubd. I tend to gravitate toward the parts of a system most people would rather not think about.
-
